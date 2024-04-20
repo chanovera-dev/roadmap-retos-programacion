@@ -33,3 +33,6 @@ mi_string2 = 'esto también es una cadena de texto'
 
 # imprimir un hola mundo
 print("hola mundo")
+
+# me dice que tipo de dato es la variable que incluya
+print(type(mi_entero_1))
